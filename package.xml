@@ -3,9 +3,9 @@
 <package format="3">
   <name>my_bot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Main package of MyBot</description>
+  <maintainer email="theanh08042004@gmail.com">Nguyen The Anh</maintainer>
+  <license>Free to use License</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
